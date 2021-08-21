@@ -1,4 +1,4 @@
-# 1D-Finite-Difference
+t# 1D-Finite-Difference
 ## Context
 Project carried out for the course of numerical method for mechanics 1 in Matlab at Polytech Lyon (France).
 
@@ -8,9 +8,9 @@ Project carried out for the course of numerical method for mechanics 1 in Matlab
 
 **Grade** : 17/20
 
-[Subject](Enonce_TP_differences_finies_1D) (in French)
+[Subject](Report/Enonce_TP_differences_finies_1D) (in French)
 
-[Full report](Compte_rendu_MNM1_partie_1.pdf) (in French)
+[Full report](Report/Compte_rendu_MNM1_partie_1.pdf) (in French)
 
 ## Project
 ### Introduction
