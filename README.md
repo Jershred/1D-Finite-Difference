@@ -8,7 +8,7 @@ Project carried out for the course of numerical method for mechanics 1 in Matlab
 
 **Grade** : 17/20
 
-[Subject](Report/Enonce_TP_differences_finies_1D) (in French)
+[Subject](Report/Enonce_TP_differences_finies_1D.pdf) (in French)
 
 [Report part 1](Report/Compte_rendu_MNM1_partie_1.pdf) (in French)
 
