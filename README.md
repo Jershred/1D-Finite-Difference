@@ -10,9 +10,9 @@ Project carried out for the course of numerical method for mechanics 1 in Matlab
 
 [Subject](Report/Enonce_TP_differences_finies_1D.pdf) (in French)
 
-[Report part 1](Report/Compte_rendu_MNM1_partie_1_(1).pdf) (in French)
+[Report part 1](Report/Compte_rendu_MNM1_partie_1.pdf) (in French)
 
-[Report part 2](Report/Compte_rendu_MNM1_partie_1_(2).pdf) (in French)
+[Report part 2](Report/Compte_rendu_MNM1_partie_1.pdf) (in French)
 
 
 ## Project
