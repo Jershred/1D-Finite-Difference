@@ -4,7 +4,7 @@ Project carried out for the course of numerical method for mechanics 1 in Matlab
 
 | Made by | Referent teacher | 
 | ------------- |:-------------:|
-| Jérémy Archier | Mrs. Severine Millet |
+| Jérémy Archier | Mrs. Séverine Millet |
 
 **Grade** : 17/20
 
