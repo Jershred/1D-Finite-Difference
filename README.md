@@ -1,4 +1,4 @@
-# 1D heat equation (1D-Finite Difference)
+# Heat equation (1D-Finite Difference)
 ## Context
 Project carried out for the course of numerical method for mechanics 1 in Matlab at Polytech Lyon (France).
 
